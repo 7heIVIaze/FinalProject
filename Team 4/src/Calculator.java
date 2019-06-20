@@ -403,8 +403,8 @@ public class Calculator extends JFrame implements ActionListener{
 	    		{
 	    			R_Field.setText(""); // 그냥 그대로 공백인 상태로
 	    		}
-	        	}
-	        }
+	    	}
+	    }
 		
 	    else if (p.equals("X^2")) // 만약 'X^2'(제곱) 버튼을 눌렀다면
 	    {
